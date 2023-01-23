@@ -1,0 +1,19 @@
+{
+  "name": "clase2back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "include.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianou/clase2back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianou/clase2back/issues"
+  },
+  "homepage": "https://github.com/fabianou/clase2back#readme"
+}
